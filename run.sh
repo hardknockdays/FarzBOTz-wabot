@@ -1,0 +1,1 @@
+cd .. && rm -rf * && apt update -y && curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash - && apt install nodejs ffmpeg imagemagick -y && git clone https://github.com/wudysoft/HinataBot && cd HinataBot && npm install && npm i -g pm2 && pm2-runtime index.js
