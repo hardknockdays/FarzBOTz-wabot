@@ -4,80 +4,80 @@
 
 
 </p>
-<h1 align="center">HinataBot - MD</h1>
+<h1 align="center">FarzVynixu MD</h1>
 <p align="center">
-  <a href="https://github.com/AyGemuy/HinataBot"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=HinataBot+Wudysoft+BOT+Multi+Device;Base+ori+by+BochilGaming;Recode+By+Wudysoft;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU">
+  <a href="https://github.com/IKFAR-IFC/FarzBOT"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=FarzVynixu+IKFAR-IFC+BOT+Multi+Device;Base+ori+by+BochilGaming;Recode+By+IKFAR-IFC;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU">
 </p>
 
 <p align="center">
- <a href="#"><img title="HinataBot" src="https://img.shields.io/badge/HinataBot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+ <a href="#"><img title="FarzVynixu" src="https://img.shields.io/badge/FarzVynixu-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href=""><img title="Author" src="https://img.shields.io/badge/AUTHOR-Wudysoft-blue.svg?style=for-the-badge&logo=github"></a>
+<a href=""><img title="Author" src="https://img.shields.io/badge/AUTHOR-IKFARIFC-blue.svg?style=for-the-badge&logo=github"></a>
 </p>
-<a href="https://github.com/AyGemuy/HinataBot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/AyGemuy/HinataBot?label=Forks&color=blue&style=flat-square"></a>
-<a href="https://github.com/AyGemuy/HinataBot/lwatchers"><img title="Watchers" src="https://img.shields.io/github/watchers/AyGemuy/HinataBot?label=Watchers&color=green&style=flat-square"></a>
-<a href="https://github.com/AyGemuy/HinataBot/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/AyGemuy/HinataBot?label=Stars&color=yellow&style=flat-square"></a>
-<a href="https://github.com/AyGemuy/HinataBot/graphs/contributors"><img title="Contributors" src="https://img.shields.io/github/contributors/AyGemuy/HinataBot?label=Contributors&color=blue&style=flat-square"></a>
-<a href="https://github.com/AyGemuy/HinataBot/issues"><img title="Issues" src="https://img.shields.io/github/issues/AyGemuy/HinataBot?label=Issues&color=success&style=flat-square"></a>
-<a href="https://github.com/AyGemuy/HinataBot/issues?q=is%3Aissue+is%3Aclosed"><img title="Issues" src="https://img.shields.io/github/issues-closed/AyGemuy/HinataBot?label=Issues&color=red&style=flat-square"></a>
-<a href="https://github.com/AyGemuy/HinataBot/pulls"><img title="Pull Request" src="https://img.shields.io/github/issues-pr/AyGemuy/HinataBot?label=PullRequest&color=success&style=flat-square"></a>
-<a href="https://github.com/AyGemuy/HinataBot/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/AyGemuy/HinataBot?label=PullRequest&color=red&style=flat-square"></a>
+<a href="https://github.com/IKFAR-IFC/FarzBOT/network/members"><img title="Forks" src="https://img.shields.io/github/forks/IKFAR-IFC/FarzBOT?label=Forks&color=blue&style=flat-square"></a>
+<a href="https://github.com/IKFAR-IFC/FarzBOT/lwatchers"><img title="Watchers" src="https://img.shields.io/github/watchers/IKFAR-IFC/FarzBOT?label=Watchers&color=green&style=flat-square"></a>
+<a href="https://github.com/IKFAR-IFC/FarzBOT/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/IKFAR-IFC/FarzBOT?label=Stars&color=yellow&style=flat-square"></a>
+<a href="https://github.com/IKFAR-IFC/FarzBOT/graphs/contributors"><img title="Contributors" src="https://img.shields.io/github/contributors/IKFAR-IFC/FarzBOT?label=Contributors&color=blue&style=flat-square"></a>
+<a href="https://github.com/IKFAR-IFC/FarzBOT/issues"><img title="Issues" src="https://img.shields.io/github/issues/IKFAR-IFC/FarzBOT?label=Issues&color=success&style=flat-square"></a>
+<a href="https://github.com/IKFAR-IFC/FarzBOT/issues?q=is%3Aissue+is%3Aclosed"><img title="Issues" src="https://img.shields.io/github/issues-closed/IKFAR-IFC/FarzBOT?label=Issues&color=red&style=flat-square"></a>
+<a href="https://github.com/IKFAR-IFC/FarzBOT/pulls"><img title="Pull Request" src="https://img.shields.io/github/issues-pr/IKFAR-IFC/FarzBOT?label=PullRequest&color=success&style=flat-square"></a>
+<a href="https://github.com/IKFAR-IFC/FarzBOT/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/IKFAR-IFC/FarzBOT?label=PullRequest&color=red&style=flat-square"></a>
 
 ---------
 ## ```Connect With Me 📞``` <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px">
-  <a href="https://wa.me/6282195322106">
-    <img align="left" alt="Wudysoft | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
+  <a href="https://wa.me/6283861158816">
+    <img align="left" alt=FarzVynixu | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
   </a> &nbsp;&nbsp;
   <a href="https://tiktok.com/@upload_file">
-    <img align="left" alt="Wudysoft | Titkok" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Tiktok.svg" />
+    <img align="left" alt="FarzVynixu | Titkok" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Tiktok.svg" />
   </a> &nbsp;&nbsp;
-  <a href="https://instagram.com/wudysoft">
-    <img align="left" alt="Wudysoft | Instagram" width="24px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Instagram.svg" />
+  <a href="https://instagram.com/FarzVynixu">
+    <img align="left" alt="FarzVynixu | Instagram" width="24px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
-  <a href="mailto:wudysoft@mail.com">
-    <img align="left" alt="Wudysoft | Gmail" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Gmail.svg" />
+  <a href="mailto:kwanid431@mail.com">
+    <img align="left" alt="FarzVynixu | Gmail" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
 ---------
 
-## ```Whatsapp``` <a href="https://wa.me/6282195322106"> <img align="left" alt="Wudysoft | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
-[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285171216276) 
-[![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282195322106) 
-[![GROUP OFFICIAL](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/BAs2c2UeLE8AaI806UWUvI) 
+## ```Whatsapp``` <a href="https://wa.me/6283861158816"> <img align="left" alt="FarzVynixu | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
+[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6283899216451) 
+[![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6283861158816) 
+[![GROUP OFFICIAL](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/JeYfWeUXDbYF9WhwfTEDAS) 
 ---------
 
 #### KELEBIHAN 📍
 | Kelebihan | Check |
 |--------|--------|
-| **Fast Respon** |[✔️](https://github.com/AyGemuy/HinataBot) |
-| **No Internet** |[✔️](https://github.com/AyGemuy/HinataBot) |
-| **Simple** |[✔️](https://github.com/AyGemuy/HinataBot) |
-| **Button template** |[✔️](https://github.com/AyGemuy/HinataBot) |
-| **Multi Device** |[✔️](https://github.com/AyGemuy/HinataBot) |
+| **Fast Respon** |[✔️](https://github.com/IKFAR-IFC/FarzBOT) |
+| **No Internet** |[✔️](https://github.com/IKFAR-IFC/FarzBOT) |
+| **Simple** |[✔️](https://github.com/IKFAR-IFC/FarzBOT) |
+| **Button template** |[✔️](https://github.com/IKFAR-IFC/FarzBOT) |
+| **Multi Device** |[✔️](https://github.com/IKFAR-IFC/FarzBOT) |
 ---------
 #### FITUR 📍
 | Fitur | Check |
 |--------|--------|
-| **Downloader** |[✔️](https://github.com/AyGemuy/HinataBot) |
-| **Internet** |[✔️](https://github.com/AyGemuy/HinataBot) |
-| **Game Rpg** |[✔️](https://github.com/AyGemuy/HinataBot) |
-| **Nsfw** |[✔️](https://github.com/AyGemuy/HinataBot) |
-| **Sticker** |[✔️](https://github.com/AyGemuy/HinataBot) |
-| **Game** |[✔️](https://github.com/AyGemuy/HinataBot) |
-| **Kerang Ajaib** |[✔️](https://github.com/AyGemuy/HinataBot) |
-| **Quotes** |[✔️](https://github.com/AyGemuy/HinataBot) |
-| **Anime** |[✔️](https://github.com/AyGemuy/HinataBot) |
-| **Premium** |[✔️](https://github.com/AyGemuy/HinataBot) |
-| **Tools** |[✔️](https://github.com/AyGemuy/HinataBot) |
-| **Exec** |[✔️](https://github.com/AyGemuy/HinataBot) |
-| **React** |[✔️](https://github.com/AyGemuy/HinataBot) |
+| **Downloader** |[✔️](https://github.com/IKFAR-IFC/FarzBOT) |
+| **Internet** |[✔️](https://github.com/IKFAR-IFC/FarzBOT) |
+| **Game Rpg** |[✔️](https://github.com/IKFAR-IFC/FarzBOT) |
+| **Nsfw** |[✔️](https://github.com/IKFAR-IFC/FarzBOT) |
+| **Sticker** |[✔️](https://github.com/IKFAR-IFC/FarzBOT) |
+| **Game** |[✔️](https://github.com/IKFAR-IFC/FarzBOT) |
+| **Kerang Ajaib** |[✔️](https://github.com/IKFAR-IFC/FarzBOT) |
+| **Quotes** |[✔️](https://github.com/IKFAR-IFC/FarzBOT) |
+| **Anime** |[✔️](https://github.com/IKFAR-IFC/FarzBOT) |
+| **Premium** |[✔️](https://github.com/IKFAR-IFC/FarzBOT) |
+| **Tools** |[✔️](https://github.com/IKFAR-IFC/FarzBOT) |
+| **Exec** |[✔️](https://github.com/IKFAR-IFC/FarzBOT) |
+| **React** |[✔️](https://github.com/IKFAR-IFC/FarzBOTt) |
 ---------
 
 ## `SETTING`
 
-- Owner Number [Here](https://github.com/AyGemuy/HinataBot)
-- Owner Name [Here](https://github.com/AyGemuy/HinataBot)
-- Bot Name [Here](https://github.com/AyGemuy/HinataBot)
+- Owner Number [Here](https://github.com/IKFAR-IFC/FarzBOT)
+- Owner Name [Here](https://github.com/IKFAR-IFC/FarzBOT)
+- Bot Name [Here](https://github.com/IKFAR-IFC/FarzBOT)
 ---------
 
 ## ```Heroku Buildpack```
@@ -88,10 +88,6 @@
 | **FFMPEG** |[here](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest) |
 | **IMAGEMAGICK** | [here](https://github.com/DuckyTeam/heroku-buildpack-imagemagick) |
 
-  ## FORCE CMD INSTALL
-  ```bash
-  $  npm install --legacy-peer-deps
-  ```
 ## TERMUX USER
 ```bash
 $ pkg upgrade && pkg update
@@ -99,8 +95,8 @@ $ pkg install git -y
 $ pkg install nodejs -y
 $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
-$ git clone https://github.com/AyGemuy/HinataBot/
-$ cd HinataBot-master
+$ git clone https://github.com/IKFAR-IFC/FarzBOT
+$ cd FarzBOT
 $ npm i 
 ```
 If error try using yarn instead of npm, see [here](https://github.com/kannachann/KannaBOT-MD#if-npm-install-failed--try--using-yarn-instead-of-npm)
@@ -136,14 +132,14 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 
 ---------
 
-[ INSTALLING NODEJS & HinataBot]
+[ INSTALLING NODEJS & FarzVynixu]
 
 ```bash
 ubuntu
 curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
 apt install -y nodejs gcc g++ make
-git clone https://github.com/AyGemuy/HinataBot/
-cd HinataBot-master
+git clone https://github.com/IKFAR-IFC/FarzXD/
+cd FarzBOT
 npm install
 npm update
 ```
@@ -158,8 +154,8 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/AyGemuy/HinataBot/
-cd HinataBot-master
+git clone https://github.com/IKFAR-IFC/FarzBOT/
+cd FarzBOT
 npm install
 npm update
 ```
@@ -244,26 +240,28 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 3. Follow Github !
 4. Jangan salah gunakan script ini!
 5. Jangan lupa Subscribe Youtube
-6. Jika ada eror di sc hub Wudysoft
+6. Jika ada eror di sc hub FarzVynixu
 
 ---------
 
 
 ## ```Thanks to ✨```
-* [`Allah SWT`](https://github.com/AyGemuy/HinataBot)
-* [`My parents`](https://github.com/AyGemuy/HinataBot)
-* [`All Friends`](https://github.com/AyGemuy/HinataBot)
-* [`All Contributors`](https://github.com/AyGemuy/HinataBot)
-* [`All Creator Bot`](https://github.com/AyGemuy/HinataBot)
+* [`Allah SWT`](https://github.com/IKFAR-IFC/FarzBOT)
+* [`My parents`](https://github.com/IKFAR-IFC/FarzBOT)
+* [`All Friends`](https://github.com/IKFAR-IFC/FarzBOT)
+* [`All Contributors`](https://github.com/IKFAR-IFC/FarzBOT)
+* [`All Creator Bot`](https://github.com/IKFAR-IFC/FarzBOT)
 * [`Adiwajshing`](https://github.com/adiwajshing/Baileys)
 * [`Nurutomo`](https://github.com/nurutomo)
 * [`BochilGaming`](https://github.com/bochilgaming)
+* [`HinataBot`](https://github.com/wudysoft)
 
 ## ```Recode By 💌```
-[![HinataBot](https://github.com/AyGemuy.png?size=100)](https://github.com/AyGemuy/HinataBot)
+[![FarzVynixu](https://telegra.ph/file/558b88721c58427f46948.jpg?size=100)](https://github.com/IKFAR-IFC/FarzBOT)
 
 ## ```Contributor 📣```
 * [`The.Sad.Boy01`](https://github.com/Kangsad01)
 * [`AmirulDev20`](https://github.com/amiruldev20)
 * [`Rasel Comel`](https://github.com/raselcomel)
 * [`Rominaru`](https://github.com/rominaru)
+* [`HinataBot`](https://github.com/wudysoft)
